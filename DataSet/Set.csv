@@ -1,0 +1,368 @@
+The food was delicious,Positive
+The service was terrible,Negative
+I love this product,Positive
+I hate this product,Negative
+This movie is amazing,Positive
+This movie is boring,Negative
+The weather is beautiful,Positive
+The weather is awful,Negative
+I'm feeling happy,Positive
+I'm feeling sad,Negative
+She is kind and generous,Positive
+He is rude and arrogant,Negative
+The music is uplifting,Positive
+The music is depressing,Negative
+This book is captivating,Positive
+This book is dull,Negative
+I had a wonderful day,Positive
+I had a terrible day,Negative
+The view is breathtaking,Positive
+The view is ugly,Negative
+This game is fun,Positive
+This game is frustrating,Negative
+The customer service was excellent,Positive
+The customer service was poor,Negative
+I'm excited for the future,Positive
+I'm worried about the future,Negative
+This is a great opportunity,Positive
+This is a bad opportunity,Negative
+The experience was unforgettable,Positive
+The experience was disappointing,Negative
+I'm grateful for my friends,Positive
+I'm lonely and isolated,Negative
+The team played well,Positive
+The team played poorly,Negative
+The company is thriving,Positive
+The company is failing,Negative
+This is a fantastic achievement,Positive
+This is a complete failure,Negative
+I'm proud of my accomplishments,Positive
+I'm ashamed of my mistakes,Negative
+The technology is innovative,Positive
+The technology is outdated,Negative
+This project is successful,Positive
+This project is a disaster,Negative
+The design is elegant,Positive
+The design is clunky,Negative
+I'm feeling energized,Positive
+I'm feeling drained,Negative
+The meeting was productive,Positive
+The meeting was unproductive,Negative
+This is a smart decision,Positive
+This is a stupid decision,Negative
+The solution is effective,Positive
+The solution is ineffective,Negative
+I'm confident in my abilities,Positive
+I'm doubtful of my abilities,Negative
+This is a valuable asset,Positive
+This is a worthless asset,Negative
+The feedback was helpful,Positive
+The feedback was unhelpful,Negative
+This is a clear improvement,Positive
+This is a step backward,Negative
+The process is efficient,Positive
+The process is inefficient,Negative
+I'm looking forward to the trip,Positive
+I'm dreading the trip,Negative
+The presentation was engaging,Positive
+The presentation was boring,Negative
+The product is reliable,Positive
+The product is unreliable,Negative
+This is a strong argument,Positive
+This is a weak argument,Negative
+The results are impressive,Positive
+The results are disappointing,Negative
+I'm optimistic about the future,Positive
+I'm pessimistic about the future,Negative
+The support was exceptional,Positive
+The support was inadequate,Negative
+This is a significant contribution,Positive
+This is a minor contribution,Negative
+The writing is clear,Positive
+The writing is confusing,Negative
+The software is user-friendly,Positive
+The software is difficult to use,Negative
+I'm very pleased with the outcome,Positive
+I'm very dissatisfied with the outcome,Negative
+This is a significant breakthrough,Positive
+This is a setback,Negative
+The atmosphere was welcoming,Positive
+The atmosphere was hostile,Negative
+I'm feeling refreshed,Positive
+I'm feeling stressed,Negative
+The food was delicious!,Positive
+The service was terrible!,Negative
+I had a wonderful time!,Positive
+This product is a waste of money!,Negative
+I'm so happy with my purchase!,Positive
+The movie was incredibly boring.,Negative
+I highly recommend this restaurant!,Positive
+This is the worst experience I've ever had!,Negative
+I'm feeling very optimistic today!,Positive
+The customer service was unhelpful.,Negative
+I love this new phone!,Positive
+The flight was delayed for hours!,Negative
+I'm so excited for my vacation!,Positive
+The concert was disappointing.,Negative
+This book is amazing!,Positive
+The weather is awful today.,Negative
+I'm grateful for everything I have!,Positive
+The meeting was unproductive.,Negative
+I'm feeling very energetic today!,Positive
+The hotel was uncomfortable.,Negative
+I'm thrilled with the results!,Positive
+The presentation was confusing.,Negative
+I'm having a great day!,Positive
+The traffic was horrendous.,Negative
+I'm so proud of my accomplishments!,Positive
+The website is difficult to navigate.,Negative
+I had a fantastic holiday!,Positive
+The food was cold and tasteless.,Negative
+I'm looking forward to the future!,Positive
+The train was overcrowded.,Negative
+I'm feeling very relaxed.,Positive
+The staff were rude and unprofessional.,Negative
+I'm in a good mood today!,Positive
+The project is behind schedule.,Negative
+I'm very satisfied with the service!,Positive
+The game was a disaster.,Negative
+I'm having a wonderful week!,Positive
+The noise was unbearable.,Negative
+I'm feeling very inspired!,Positive
+The building was poorly maintained.,Negative
+I'm so happy to be here!,Positive
+The software is buggy and unstable.,Negative
+I'm feeling very motivated!,Positive
+The instructions were unclear.,Negative
+I had a great time at the party!,Positive
+The view was breathtaking.,Negative
+I'm so proud of my children!,Positive
+The quality of the product is poor.,Negative
+I'm having a lovely evening!,Positive
+The communication was poor.,Negative
+I'm feeling very content!,Positive
+The experience was frustrating.,Negative
+I'm thankful for my health!,Positive
+The process was inefficient.,Negative
+I'm enjoying my coffee!,Positive
+The product is defective.,Negative
+I'm so excited for the weekend!,Positive
+The service was slow and inattentive.,Negative
+I'm feeling very peaceful!,Positive
+The weather forecast was inaccurate.,Negative
+I'm having a relaxing day!,Positive
+The meeting was a waste of time.,Negative
+I'm feeling very refreshed!,Positive
+The music was loud and annoying.,Negative
+I'm very pleased with the outcome!,Positive
+The journey was long and tiring.,Negative
+I'm in a great mood!,Positive
+The design is unattractive.,Negative
+I'm feeling very calm.,Positive
+The performance was underwhelming.,Negative
+I had a pleasant experience!,Positive
+The food was bland and boring.,Negative
+I'm very optimistic about the future!,Positive
+The customer service was excellent.,Negative
+I'm feeling very happy!,Positive
+The wait was too long.,Negative
+I'm so glad to see you!,Positive
+The book was dull and uninteresting.,Negative
+I'm having fun!,Positive
+The movie was predictable.,Negative
+The food was delicious,Positive
+The service was terrible,Negative
+I loved the movie,Positive
+The book was boring,Negative
+I'm feeling happy today,Positive
+This is a disaster,Negative
+She is a wonderful person,Positive
+He is a terrible person,Negative
+I'm having a great time,Positive
+I hate this weather,Negative
+The sunset was breathtaking,Positive
+The meeting was unproductive,Negative
+I'm excited for the trip,Positive
+I'm so stressed out,Negative
+The music was amazing,Positive
+The concert was awful,Negative
+I feel fantastic,Positive
+I feel terrible,Negative
+The weather is beautiful,Positive
+The weather is awful,Negative
+This is the best day ever,Positive
+This is the worst day ever,Negative
+I'm so grateful,Positive
+I'm so disappointed,Negative
+The presentation was excellent,Positive
+The presentation was poor,Negative
+I'm very satisfied,Positive
+I'm very dissatisfied,Negative
+This product is amazing,Positive
+This product is terrible,Negative
+I'm feeling very positive,Positive
+I'm feeling very negative,Negative
+The customer service was exceptional,Positive
+The customer service was terrible,Negative
+I'm thrilled with the results,Positive
+I'm disappointed with the results,Negative
+I highly recommend this,Positive
+I do not recommend this,Negative
+This is a great opportunity,Positive
+This is a bad opportunity,Negative
+I'm feeling optimistic,Positive
+I'm feeling pessimistic,Negative
+The team did a great job,Positive
+The team performed poorly,Negative
+I'm very pleased,Positive
+I'm very displeased,Negative
+The experience was wonderful,Positive
+The experience was dreadful,Negative
+I'm so happy,Positive
+I'm so sad,Negative
+The view was stunning,Positive
+The view was ugly,Negative
+The food was awful,Negative
+The hotel was fantastic,Positive
+The hotel was terrible,Negative
+I'm very impressed,Positive
+I'm very unimpressed,Negative
+I'm completely satisfied,Positive
+I'm completely dissatisfied,Negative
+The journey was enjoyable,Positive
+The journey was arduous,Negative
+I love this place,Positive
+I hate this place,Negative
+This is a great success,Positive
+This is a complete failure,Negative
+I'm feeling energized,Positive
+I'm feeling drained,Negative
+The company is doing well,Positive
+The company is struggling,Negative
+I'm feeling refreshed,Positive
+I'm feeling exhausted,Negative
+The project was a success,Positive
+The project failed,Negative
+I'm feeling motivated,Positive
+I'm feeling demotivated,Negative
+The car is great,Positive
+The car is awful,Negative
+I'm very proud,Positive
+I'm very ashamed,Negative
+The game was exciting,Positive
+The game was boring,Negative
+I'm feeling confident,Positive
+I'm feeling insecure,Negative
+The design is beautiful,Positive
+The design is ugly,Negative
+The technology is innovative,Positive
+The technology is outdated,Negative
+The food was delicious,Positive
+The service was terrible,Negative
+I loved the movie,Positive
+This is a waste of time,Negative
+I'm feeling great today,Positive
+I'm so sad right now,Negative
+The weather is beautiful,Positive
+This is the worst day of my life,Negative
+I'm having a wonderful day,Positive
+I hate my job,Negative
+The product is amazing,Positive
+The customer service was awful,Negative
+I'm so excited for my vacation,Positive
+This is a complete disaster,Negative
+I'm feeling very happy,Positive
+I'm incredibly disappointed,Negative
+The concert was fantastic,Positive
+The meeting was unproductive,Negative
+I'm in a good mood,Positive
+I'm feeling down,Negative
+The book was captivating,Positive
+The game was boring,Negative
+I had a great time,Positive
+I'm stressed out,Negative
+The presentation was excellent,Positive
+The website is difficult to use,Negative
+I'm very satisfied,Positive
+I'm very dissatisfied,Negative
+The team performed well,Positive
+The project is behind schedule,Negative
+I'm feeling optimistic,Positive
+I'm feeling pessimistic,Negative
+The view was breathtaking,Positive
+The traffic was terrible,Negative
+I'm grateful for my friends,Positive
+I'm lonely,Negative
+The flowers are beautiful,Positive
+The house is run-down,Negative
+I'm feeling energized,Positive
+I'm feeling drained,Negative
+The song is catchy,Positive
+The movie was predictable,Negative
+I'm in a good place,Positive
+I'm struggling,Negative
+The coffee is strong,Positive
+The tea is weak,Negative
+I'm proud of my accomplishments,Positive
+I'm feeling insecure,Negative
+The sunset was stunning,Positive
+The weather is stormy,Negative
+I'm feeling inspired,Positive
+I'm unmotivated,Negative
+The food was fresh,Positive
+The food was stale,Negative
+I'm happy with my purchase,Positive
+I regret my purchase,Negative
+The class was engaging,Positive
+The class was boring,Negative
+I feel empowered,Positive
+I feel helpless,Negative
+The event was successful,Positive
+The event was a failure,Negative
+I'm feeling confident,Positive
+I'm feeling anxious,Negative
+The design is innovative,Positive
+The design is outdated,Negative
+I'm feeling relaxed,Positive
+I'm feeling tense,Negative
+The journey was smooth,Positive
+The journey was bumpy,Negative
+I feel accomplished,Positive
+I feel defeated,Negative
+The story was moving,Positive
+The story was dull,Negative
+The support was helpful,Positive
+The support was unhelpful,Negative
+I'm feeling peaceful,Positive
+I'm feeling restless,Negative
+The atmosphere was vibrant,Positive
+The atmosphere was gloomy,Negative
+I'm feeling refreshed,Positive
+I'm feeling exhausted,Negative
+The experience was positive,Positive
+The experience was negative,Negative
+The food was delicious,Positive
+The service was terrible,Negative
+I love this product,Positive
+I hate this product,Negative
+This movie is amazing,Positive
+This movie is boring,Negative
+The weather is beautiful,Positive
+The weather is awful,Negative
+I'm feeling great today,Positive
+I'm feeling down today,Negative
+This song is catchy,Positive
+This song is annoying,Negative
+She is a wonderful person,Positive
+He is a terrible person,Negative
+The view is breathtaking,Positive
+The view is ugly,Negative
+This book is captivating,Positive
+This book is dull,Negative
+I had a fantastic time,Positive
+I had a horrible time,Negative
+The customer service was excellent,Positive
+The customer service was poor,Negative
+This is a great opportunity,Positive
+This is a bad opportunity,Negative
+I'm very happy,Positive
